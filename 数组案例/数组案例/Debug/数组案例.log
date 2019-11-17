@@ -1,0 +1,8 @@
+﻿  数组案例.cpp
+c:\users\laichao\documents\visual studio 2015\c++代码区\数组案例\数组案例\myarray.h(10): error C2535: “MyArray::MyArray(void)”: 已经定义或声明成员函数
+  c:\users\laichao\documents\visual studio 2015\c++代码区\数组案例\数组案例\myarray.h(7): note: 参见“MyArray::MyArray”的声明
+c:\users\laichao\documents\visual studio 2015\c++代码区\数组案例\数组案例\数组案例.cpp(48): error C2660: “MyArray::PopFront”: 函数不接受 1 个参数
+  MyArray.cpp
+c:\users\laichao\documents\visual studio 2015\c++代码区\数组案例\数组案例\myarray.h(10): error C2535: “MyArray::MyArray(void)”: 已经定义或声明成员函数
+  c:\users\laichao\documents\visual studio 2015\c++代码区\数组案例\数组案例\myarray.h(7): note: 参见“MyArray::MyArray”的声明
+  正在生成代码...
