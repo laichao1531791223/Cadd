@@ -28,6 +28,8 @@ template<class NameType,class AgeType>
 Maker<NameType, AgeType>::Maker(NameType name, AgeType age)
 {
 	cout << "¹¹Ôìº¯Êı" << endl;
+	this->name = name;
+	this->age = age;
 }
 
 template<class NameType,class AgeType>
